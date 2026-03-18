@@ -6,7 +6,7 @@
 
 ## 🔍 Overview
 
-This project presents a fully interactive **Financial Performance Dashboard** built in **Google Looker Studio**, powered by a cleaned and transformed Excel dataset. The dashboard enables business stakeholders to monitor core financial KPIs, identify top-performing markets and products, and evaluate the impact of promotional strategies — all from a single, filterable interface.
+This project presents a fully interactive **Financial Performance Dashboard** built in **Google Looker Studio**, powered by a cleaned and transformed Excel dataset. The dashboard enables business stakeholders to monitor core financial KPIs, identify top-performing markets and products, and evaluate the impact of promotional strategies - all from a single, filterable interface.
 
 ---
 
@@ -86,4 +86,4 @@ This project presents a fully interactive **Financial Performance Dashboard** bu
 
 ---
 
-*Built by [Chiedu Emmanuel Aninye] · Open to Data Analyst & BI Analyst opportunities globally*
+*Built by Chiedu Emmanuel Aninye · Open to Data Analyst & BI Analyst opportunities globally*
