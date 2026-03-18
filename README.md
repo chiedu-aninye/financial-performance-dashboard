@@ -64,7 +64,7 @@ This project presents a fully interactive **Financial Performance Dashboard** bu
 1. **Clone or download** this repository
 2. Open the **Excel dataset** (`Sales.xlsx`) to review the raw and cleaned data
 3. Visit the **live dashboard** via the Looker Studio link below *(replace with your published link)*:
-   > 🔗 [View Live Dashboard](#)
+   > 🔗 [View Live Dashboard](https://lookerstudio.google.com/s/jaiABKKEcZU)
 4. Use the **"Filter by Region"** dropdown at the top right to explore regional performance
 5. Hover over charts for tooltips and drill-down detail
 
