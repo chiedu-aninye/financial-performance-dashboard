@@ -6,7 +6,7 @@
 
 ## 🔍 Overview
 
-This project presents a fully interactive **Financial Performance Dashboard** built in **Google Looker Studio**, powered by a cleaned and transformed Excel dataset. The dashboard enables business stakeholders to monitor core financial KPIs, identify top-performing markets and products, and evaluate the impact of promotional strategies - all from a single, filterable interface.
+This project presents a fully interactive **Financial Performance Dashboard** built in **Google Looker Studio**, powered by a cleaned and transformed Google Sheets dataset. The dashboard enables business stakeholders to monitor core financial KPIs, identify top-performing markets and products, and evaluate the impact of promotional strategies — all from a single, filterable interface.
 
 ---
 
@@ -24,7 +24,7 @@ This project presents a fully interactive **Financial Performance Dashboard** bu
 
 | Tool | Purpose |
 |---|---|
-| Microsoft Excel | Data source, cleaning & transformation |
+| Google Sheets | Data source, cleaning & transformation |
 | Google Looker Studio | Dashboard design, data visualisation & interactivity |
 
 ---
@@ -62,7 +62,7 @@ This project presents a fully interactive **Financial Performance Dashboard** bu
 ## 🚀 How to Use This Project
 
 1. **Clone or download** this repository
-2. Open the **Excel dataset** (`Sales.xlsx`) to review the raw and cleaned data
+2. Open the **Google Sheets dataset** (`Sales.xlsx`) to review the raw and cleaned data
 3. Visit the **live dashboard** via the Looker Studio link below *(replace with your published link)*:
    > 🔗 [View Live Dashboard](https://lookerstudio.google.com/s/vBJdD5vYF78)
 4. Use the **"Filter by Region"** dropdown at the top right to explore regional performance
@@ -73,7 +73,7 @@ This project presents a fully interactive **Financial Performance Dashboard** bu
 ## 📁 Repository Structure
 
 ```
-├── Sales.xlsx          # Cleaned Excel dataset
+├── Sales.xlsx          # Cleaned dataset
 ├── screenshot.png      # Dashboard preview image
 └── README.md           # Project documentation
 ```
@@ -82,7 +82,7 @@ This project presents a fully interactive **Financial Performance Dashboard** bu
 
 ## 🏷️ Tags
 
-`data-analysis` `business-intelligence` `dashboard` `kpi` `data-visualization` `google-looker-studio` `excel` `financial-analytics` `reporting`
+`data-analysis` `business-intelligence` `dashboard` `kpi` `data-visualization` `google-looker-studio` `Google Sheet` `financial-analytics` `reporting`
 
 ---
 
